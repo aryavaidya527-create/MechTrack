@@ -1,0 +1,10 @@
+{
+  "name": "MechTrack — Mechanical Engineering Logbook",
+  "short_name": "MechTrack",
+  "description": "Machine production, maintenance and motor calculation logbook.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b1320",
+  "theme_color": "#101b2b",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
